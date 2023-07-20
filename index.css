@@ -207,11 +207,11 @@ grid-area: 1/1/1/1;
 }
 .grid-item:nth-child(33) {
     background-color:rgb(221, 176, 155);
-    grid-area: 11 / 3 /13 /4;
+    grid-area: 12 / 3 /13 /4;
 }
 .grid-item:nth-child(34) {
-    background-color:rgb(221, 176, 155);
-    grid-area: 11 / 2 /12 /3;
+    background-color:rgb(236, 197, 177);
+    grid-area: 11 / 3 /12 /4;
 }
 .grid-item:nth-child(35) {
     background-color:rgb(179, 133, 112);
