@@ -222,8 +222,8 @@ grid-area: 1/1/1/1;
     grid-area: 11 / 9 /10 /10;
 }
 .grid-item:nth-child(37) {
-    background-color:rgb(78, 43, 40);
-    grid-area: 11 / 10 /13 /10;
+    background-color:rgb(221, 176, 155);
+    grid-area: 12 / 9 /13 /10;
 }
 .grid-item:nth-child(38) {
     background-color:rgb(78, 43, 40);
@@ -234,8 +234,8 @@ grid-area: 1/1/1/1;
     grid-area: 13 / 9 /14 /10;
 }
 .grid-item:nth-child(40) {
-    background-color:rgb(221, 176, 155);
-    grid-area: 11 / 9 /13 /10;
+    background-color:rgb(236, 197, 177);
+    grid-area: 11 / 9 /12 /10;
 }
 .grid-item:nth-child(41) {
     background-color:rgb(34, 73, 66);
